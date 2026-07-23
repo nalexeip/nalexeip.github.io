@@ -132,7 +132,7 @@ RPG игра на *UnrealEngine4* (управление проектом + пр�
 
 ## Контактные данные
 
-- **Telegram:** [@nalexeip](https://t.me/nalexeip)
+- **Telegram:** [@a_nemkov](https://t.me/a_nemkov)
 - **Email:** [nalexeip+github@ya.ru](mailto:nalexeip+github@ya.ru)
 - **GitHub:** [github.com/nalexeip](https://github.com/nalexeip)
 
